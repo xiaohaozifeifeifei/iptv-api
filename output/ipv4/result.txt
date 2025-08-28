@@ -1,72 +1,61 @@
 央视频道,#genre#
+CCTV-2,http://221.13.235.225:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://110.181.232.172:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://nas.hssvm.com:8888/udp/225.1.1.133:5002
 CCTV-2,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
-CCTV-2,http://113.25.252.226:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://110.181.232.202:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
 CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
 CCTV-8,http://drive.mxmy.net:8888/udp/239.3.1.175:8001
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
-CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
+CCTV-11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8
 
 卫视频道,#genre#
-安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
 东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
-甘肃卫视,http://113.26.202.52:1299/tsfile/live/0141_1.m3u8
-广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
-广东卫视,http://113.15.109.216:59901/tsfile/live/0125_1.m3u8
 广东卫视,http://nas.hssvm.com:8888/udp/225.1.1.116:5002
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
-湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
-黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
+黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
-江苏卫视,http://111.61.236.247:9081/hls/26/index.m3u8
-江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江苏卫视,http://123.130.84.106:8154/tsfile/live/0127_1.m3u8
+江苏卫视,http://36.105.100.208:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
-青海卫视,http://36.105.100.208:35455/itv/5000000006000040015.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
-山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8
 陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-陕西卫视,http://113.15.109.216:59901/tsfile/live/0136_1.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
-陕西卫视,http://113.26.202.52:1299/tsfile/live/0136_1.m3u8
-陕西卫视,http://61.156.228.12:8154/tsfile/live/0136_1.m3u8
-深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 深圳卫视,http://nas.hssvm.com:8888/udp/225.1.1.117:5002
+深圳卫视,http://drive.mxmy.net:8888/udp/239.3.1.134:8020
 三沙卫视,http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
-西藏卫视,http://1.180.2.93:9901/tsfile/live/0111_1.m3u8
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-延边卫视,http://111.43.126.240:9003/hls/65/index.m3u8
 
 安徽频道,#genre#
+安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 
 北京频道,#genre#
 北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
-北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 
@@ -77,6 +66,7 @@ CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 福建频道,#genre#
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 甘肃频道,#genre#
@@ -114,16 +104,16 @@ CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 湖北影视,http://58.19.43.46:9901/tsfile/live/1016_1.m3u8
 
 湖南频道,#genre#
+金鹰卡通,http://113.57.93.165:9900/tsfile/live/1000_1.m3u8
 
 黑龙江频道,#genre#
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
-哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 
 吉林频道,#genre#
@@ -150,12 +140,11 @@ CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 青海频道,#genre#
 
 山东频道,#genre#
-山东齐鲁,http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山东综艺,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8
@@ -190,6 +179,7 @@ CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 天津新闻,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
 天津文艺,http://nas.hssvm.com:8888/udp/225.1.1.131:5002
 天津都市,http://nas.hssvm.com:8888/udp/225.1.1.128:5002
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 
 新疆频道,#genre#
 
@@ -212,8 +202,6 @@ CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 
 AKTV,#genre#
 
