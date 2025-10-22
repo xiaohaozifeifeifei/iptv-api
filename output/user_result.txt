@@ -495,7 +495,6 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8
 西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 西藏卫视,https://cc06.tv12.xyz/112.m3u8
-西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
@@ -526,6 +525,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 
 安徽频道,#genre#
 安徽影视,http://112.27.235.94:8000/hls/24/index.m3u8
+安徽影视,http://112.132.10.54:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 
@@ -603,11 +603,11 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 海峡卫视,https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=4f0e92714a01c4992a15cf2f3e28302eec74c9aa41d61ae4ea3f59eeee48f6f8b69ff4144feef10cc6b071694a2b66482a9356092178f3f91c63483697b74e06e29f34e42eb38109fc26639bc9
 海峡卫视,https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=aa08feaea7b06a08a2058edd5b2a3377f8b8fd20576a1dd12584280ea4c7ad876c91f9f43192d1f7385db3182cbc67803aa2b6d5ccf75644a5603bbb37e9020d26ab7d822e3188da7b4bd5a295
 海峡卫视,https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=e4f9753d7260fb2fd1b2d0ac6b7fb6fa533d3d0a64ae2edd555f9cd50c54be5b1ac7c96fca18096083603f8d385649ce0feb00c89dd51766b2e68084dd23031d6b4c30e7063ce1848748018d93
+福建公共,http://8.138.7.223/tv/fjtv.php?id=6
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建旅游,http://110.80.17.38:9999/tsfile/live/0138_1.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 
 甘肃频道,#genre#
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
@@ -694,8 +694,8 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 湖北频道,#genre#
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 湖北经视,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8
-湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
 湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8
 湖北影视,http://58.19.43.46:9901/tsfile/live/1016_1.m3u8
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
@@ -703,19 +703,12 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 
 湖南频道,#genre#
 湖南国际,http://php.jdshipin.com:8880/iptv.php
-湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南经视,http://php.jdshipin.com:8880/iptv.php
-湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
 湖南都市,http://php.jdshipin.com:8880/iptv.php
-湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php
-湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php
-湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南电影,http://php.jdshipin.com:8880/iptv.php
-湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,https://mursor.ottiptv.cc/gptv/G_JINYING.m3u8
@@ -740,11 +733,18 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 
 吉林频道,#genre#
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
@@ -856,11 +856,11 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 安多卫视,https://mursor.ottiptv.cc/gptv/G_ANDUO.m3u8
 
 山东频道,#genre#
-山东齐鲁,http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
-山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
+山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
@@ -873,6 +873,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 济南影视,http://124.128.73.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 山西频道,#genre#
+山西经济与科技,http://183.188.111.173:9003/hls/46/index.m3u8
 
 陕西频道,#genre#
 陕西新闻资讯,https://mursor.ottiptv.cc/migu/956909289.m3u8?migutoken=dfbbd5fbf7a2c3655f0db8c92c10a4adac624256be78e5d9598a01b193bd20b32cd47215efafd4c3404224f75b14e721021f5ef65e34a395be200aab45c7ecda547cf2cd44023bfce1ced14a3e
@@ -952,6 +953,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 生活时尚,rtsp://115.153.233.154/PLTV/88888888/224/3221225603/iptv7992.smil
 生活时尚,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=gf001&userid=gf001
 乐游,http://112.46.105.20:8009/hls/75/index.m3u8
+都市剧场,http://116.228.170.214:888/hls/22/index.m3u8
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
 东方财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
@@ -1072,16 +1074,13 @@ CHC影迷电影,https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=5eb7305a
 港·澳·台,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
