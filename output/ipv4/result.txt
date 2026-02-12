@@ -21,8 +21,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
@@ -33,7 +33,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
@@ -45,8 +44,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 
 安徽频道,#genre#
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
@@ -72,6 +71,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 广东频道,#genre#
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东经济科教,http://119.32.12.17:2901/udp/224.1.100.6:11111
 广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111
@@ -96,9 +97,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 河南频道,#genre#
 
 湖北频道,#genre#
-湖北经视,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8
-湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8
-湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南频道,#genre#
 
@@ -114,9 +112,13 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 江苏频道,#genre#
 
 辽宁频道,#genre#
+辽宁影视剧,http://dassby.qqff.top:99/live/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7/index.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
+辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
+辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
 朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
 
@@ -152,10 +154,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 天津频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 
 新疆频道,#genre#
 
