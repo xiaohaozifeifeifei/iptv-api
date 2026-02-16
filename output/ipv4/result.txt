@@ -12,8 +12,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 卫视频道,#genre#
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
@@ -21,9 +21,9 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
@@ -31,11 +31,11 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://qwt.zhibotv.top:2016/全网通.php?id=三沙卫视
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
@@ -43,9 +43,10 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
 
 安徽频道,#genre#
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
@@ -64,6 +65,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建旅游,http://110.80.17.38:9999/tsfile/live/0138_1.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 
 甘肃频道,#genre#
 
@@ -75,6 +77,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 广东经济科教,http://119.32.12.17:2901/udp/224.1.100.6:11111
 广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
+广东少儿,http://119.32.12.17:2901/udp/224.1.100.9:11111
 
 广西频道,#genre#
 广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
@@ -84,8 +87,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 贵州频道,#genre#
 
 海南频道,#genre#
-海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 河北频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -95,10 +98,11 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 湖北频道,#genre#
 湖北经视,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8
+湖北经视,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8
-湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南频道,#genre#
+金鹰卡通,http://101.66.195.205:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 黑龙江频道,#genre#
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
@@ -176,6 +180,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 港·澳·台,#genre#
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 
 AKTV,#genre#
 
