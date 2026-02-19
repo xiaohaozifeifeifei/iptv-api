@@ -220,8 +220,8 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws#rtsp://115.85.232.19/PLTV/88888910/224/3221225531/10000100000000060000000000107311_0.smil
 东方卫视,http://goo.bkpcp.top/mg/dfws
@@ -320,9 +320,9 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010057/1.m3u8
 湖北卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
@@ -424,8 +424,8 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/1.m3u8
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
@@ -496,7 +496,6 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8
 西藏卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
 西藏卫视,https://cc06.tv12.xyz/112.m3u8
-西藏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
@@ -735,8 +734,6 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 
 吉林频道,#genre#
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
@@ -854,7 +851,6 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 
 山东频道,#genre#
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
-山东综艺,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
 山东综艺,http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东农科,http://58.57.40.22:9901/tsfile/live/1022_1.m3u8
@@ -959,8 +955,8 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1755825520002
 
 天津频道,#genre#
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 
 新疆频道,#genre#
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
