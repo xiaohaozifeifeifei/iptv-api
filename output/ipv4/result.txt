@@ -12,18 +12,18 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 卫视频道,#genre#
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
+东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://69.30.246.194/live/jsws.m3u8
 内蒙古卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
@@ -31,8 +31,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
@@ -43,8 +43,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 云南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=云南卫视
 延边卫视,http://qwt.zhibotv.top:2016/全网通.php?id=延边卫视
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 
 安徽频道,#genre#
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
@@ -59,7 +59,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 重庆新闻,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 福建频道,#genre#
-福建公共,http://8.138.7.223/tv/fjtv.php?id=6
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建旅游,http://110.80.17.38:9999/tsfile/live/0138_1.m3u8
@@ -94,9 +93,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 湖北频道,#genre#
 湖北经视,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8
-湖北经视,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8
-湖北影视,http://61.184.46.85:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南频道,#genre#
 
@@ -104,6 +101,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 
 吉林频道,#genre#
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
