@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260222231621 +0800">
+<tv date="20260223065138 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -27963,6 +27963,75 @@
 	<channel id="云南影视">
 		<display-name lang="zh">云南影视</display-name>
 	</channel>
+	<programme channel="云南影视" start="20260223001800 +0800" stop="20260223002700 +0800">
+		<title lang="zh">影视气象站</title>
+	</programme>
+	<programme channel="云南影视" start="20260223002700 +0800" stop="20260223013000 +0800">
+		<title lang="zh">电影故事会</title>
+	</programme>
+	<programme channel="云南影视" start="20260223013000 +0800" stop="20260223031000 +0800">
+		<title lang="zh">好剧跟我看</title>
+	</programme>
+	<programme channel="云南影视" start="20260223031000 +0800" stop="20260223032500 +0800">
+		<title lang="zh">跟我看电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223032500 +0800" stop="20260223064800 +0800">
+		<title lang="zh">晚间节目结束</title>
+	</programme>
+	<programme channel="云南影视" start="20260223064800 +0800" stop="20260223070600 +0800">
+		<title lang="zh">跟我看电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223070600 +0800" stop="20260223085600 +0800">
+		<title lang="zh">好剧跟我看</title>
+	</programme>
+	<programme channel="云南影视" start="20260223085600 +0800" stop="20260223102200 +0800">
+		<title lang="zh">电影故事会</title>
+	</programme>
+	<programme channel="云南影视" start="20260223102200 +0800" stop="20260223111400 +0800">
+		<title lang="zh">天下电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223111400 +0800" stop="20260223113100 +0800">
+		<title lang="zh">购物时段</title>
+	</programme>
+	<programme channel="云南影视" start="20260223113100 +0800" stop="20260223125500 +0800">
+		<title lang="zh">天下电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223125500 +0800" stop="20260223131800 +0800">
+		<title lang="zh">跟我看电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223131800 +0800" stop="20260223151700 +0800">
+		<title lang="zh">五星电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223151700 +0800" stop="20260223153800 +0800">
+		<title lang="zh">购物时段</title>
+	</programme>
+	<programme channel="云南影视" start="20260223153800 +0800" stop="20260223164500 +0800">
+		<title lang="zh">电影故事会</title>
+	</programme>
+	<programme channel="云南影视" start="20260223164500 +0800" stop="20260223165500 +0800">
+		<title lang="zh">晚间节目开播</title>
+	</programme>
+	<programme channel="云南影视" start="20260223165500 +0800" stop="20260223184600 +0800">
+		<title lang="zh">五星电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223184600 +0800" stop="20260223190900 +0800">
+		<title lang="zh">跟我看电影</title>
+	</programme>
+	<programme channel="云南影视" start="20260223190900 +0800" stop="20260223205600 +0800">
+		<title lang="zh">好剧跟我看</title>
+	</programme>
+	<programme channel="云南影视" start="20260223205600 +0800" stop="20260223211200 +0800">
+		<title lang="zh">调剂节目</title>
+	</programme>
+	<programme channel="云南影视" start="20260223211200 +0800" stop="20260223220700 +0800">
+		<title lang="zh">电影故事会</title>
+	</programme>
+	<programme channel="云南影视" start="20260223220700 +0800" stop="20260223221800 +0800">
+		<title lang="zh">车影视界</title>
+	</programme>
+	<programme channel="云南影视" start="20260223221800 +0800" stop="20260223235959 +0800">
+		<title lang="zh">天下电影</title>
+	</programme>
 	<channel id="哒啵赛事">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel>
@@ -28875,149 +28944,194 @@
 	<channel id="贵州科教健康">
 		<display-name lang="zh">贵州科教健康</display-name>
 	</channel>
-	<programme channel="贵州科教健康" start="20260223000000 +0800" stop="20260223000200 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223000200 +0800" stop="20260223002200 +0800">
+	<programme channel="贵州科教健康" start="20260223000000 +0800" stop="20260223002000 +0800">
 		<title lang="zh">太阳雨</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223002200 +0800" stop="20260223004600 +0800">
+	<programme channel="贵州科教健康" start="20260223002000 +0800" stop="20260223004500 +0800">
 		<title lang="zh">人文中国</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223004600 +0800" stop="20260223011600 +0800">
+	<programme channel="贵州科教健康" start="20260223004500 +0800" stop="20260223011500 +0800">
 		<title lang="zh">奇趣大自然</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223011600 +0800" stop="20260223015600 +0800">
+	<programme channel="贵州科教健康" start="20260223011500 +0800" stop="20260223015500 +0800">
 		<title lang="zh">科普云课堂</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223015600 +0800" stop="20260223022000 +0800">
+	<programme channel="贵州科教健康" start="20260223015500 +0800" stop="20260223022000 +0800">
 		<title lang="zh">人文中国</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223022000 +0800" stop="20260223030200 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="贵州科教健康" start="20260223022000 +0800" stop="20260223030100 +0800">
+		<title lang="zh">黎明之战(25)</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223030200 +0800" stop="20260223034300 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="贵州科教健康" start="20260223030100 +0800" stop="20260223034300 +0800">
+		<title lang="zh">黎明之战(26)</title>
 	</programme>
 	<programme channel="贵州科教健康" start="20260223034300 +0800" stop="20260223042500 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">黎明之战(27)</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223042500 +0800" stop="20260223050500 +0800">
-		<title lang="zh">科普云课堂</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223050500 +0800" stop="20260223052900 +0800">
-		<title lang="zh">人文中国</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223052900 +0800" stop="20260223054900 +0800">
+	<programme channel="贵州科教健康" start="20260223042500 +0800" stop="20260223044500 +0800">
 		<title lang="zh">太阳雨</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223054900 +0800" stop="20260223061300 +0800">
-		<title lang="zh">人文中国</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223061300 +0800" stop="20260223064300 +0800">
+	<programme channel="贵州科教健康" start="20260223044500 +0800" stop="20260223051500 +0800">
 		<title lang="zh">奇趣大自然</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223064300 +0800" stop="20260223070700 +0800">
+	<programme channel="贵州科教健康" start="20260223051500 +0800" stop="20260223053900 +0800">
 		<title lang="zh">人文中国</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223070700 +0800" stop="20260223074900 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223074900 +0800" stop="20260223081000 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223081000 +0800" stop="20260223085100 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223085100 +0800" stop="20260223091200 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223091200 +0800" stop="20260223095300 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223095300 +0800" stop="20260223101400 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223101400 +0800" stop="20260223105600 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223105600 +0800" stop="20260223111600 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223111600 +0800" stop="20260223115800 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223115800 +0800" stop="20260223121800 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223121800 +0800" stop="20260223130000 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223130000 +0800" stop="20260223132000 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223132000 +0800" stop="20260223140200 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223140200 +0800" stop="20260223142200 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223142200 +0800" stop="20260223150400 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223150400 +0800" stop="20260223152400 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223152400 +0800" stop="20260223160600 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223160600 +0800" stop="20260223162600 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223162600 +0800" stop="20260223170800 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223170800 +0800" stop="20260223172800 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223172800 +0800" stop="20260223180900 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223180900 +0800" stop="20260223183000 +0800">
-		<title lang="zh">栏目</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223183000 +0800" stop="20260223185200 +0800">
-		<title lang="zh">太阳雨</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223185200 +0800" stop="20260223193400 +0800">
+	<programme channel="贵州科教健康" start="20260223053900 +0800" stop="20260223062000 +0800">
 		<title lang="zh">科普云课堂</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223193400 +0800" stop="20260223200000 +0800">
+	<programme channel="贵州科教健康" start="20260223062000 +0800" stop="20260223064400 +0800">
 		<title lang="zh">人文中国</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223200000 +0800" stop="20260223201500 +0800">
-		<title lang="zh">典阅贵州</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223201500 +0800" stop="20260223204000 +0800">
-		<title lang="zh">人文中国</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223204000 +0800" stop="20260223211200 +0800">
+	<programme channel="贵州科教健康" start="20260223064400 +0800" stop="20260223071400 +0800">
 		<title lang="zh">奇趣大自然</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223211200 +0800" stop="20260223215500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223215500 +0800" stop="20260223224000 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223224000 +0800" stop="20260223232300 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="贵州科教健康" start="20260223232300 +0800" stop="20260223234700 +0800">
+	<programme channel="贵州科教健康" start="20260223071400 +0800" stop="20260223073800 +0800">
 		<title lang="zh">人文中国</title>
 	</programme>
-	<programme channel="贵州科教健康" start="20260223234700 +0800" stop="20260223235959 +0800">
+	<programme channel="贵州科教健康" start="20260223073800 +0800" stop="20260223081600 +0800">
+		<title lang="zh">津门飞鹰(23)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223081600 +0800" stop="20260223083600 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223083600 +0800" stop="20260223083700 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223083700 +0800" stop="20260223091500 +0800">
+		<title lang="zh">津门飞鹰(24)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223091500 +0800" stop="20260223093500 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223093500 +0800" stop="20260223093600 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223093600 +0800" stop="20260223101500 +0800">
+		<title lang="zh">津门飞鹰(25)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223101500 +0800" stop="20260223103500 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223103500 +0800" stop="20260223103700 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223103700 +0800" stop="20260223111600 +0800">
+		<title lang="zh">津门飞鹰(26)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223111600 +0800" stop="20260223113600 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223113600 +0800" stop="20260223113700 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223113700 +0800" stop="20260223121500 +0800">
+		<title lang="zh">津门飞鹰(27)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223121500 +0800" stop="20260223123500 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223123500 +0800" stop="20260223123700 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223123700 +0800" stop="20260223131500 +0800">
+		<title lang="zh">津门飞鹰(28)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223131500 +0800" stop="20260223133500 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223133500 +0800" stop="20260223141300 +0800">
+		<title lang="zh">津门飞鹰(29)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223141300 +0800" stop="20260223143300 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223143300 +0800" stop="20260223143400 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223143400 +0800" stop="20260223151200 +0800">
+		<title lang="zh">津门飞鹰(30)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223151200 +0800" stop="20260223153200 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223153200 +0800" stop="20260223161100 +0800">
+		<title lang="zh">津门飞鹰(31)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223161100 +0800" stop="20260223163100 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223163100 +0800" stop="20260223163200 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223163200 +0800" stop="20260223171100 +0800">
+		<title lang="zh">津门飞鹰(32)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223171100 +0800" stop="20260223173100 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223173100 +0800" stop="20260223181000 +0800">
+		<title lang="zh">津门飞鹰(33)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223181000 +0800" stop="20260223183000 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223183000 +0800" stop="20260223183100 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223183100 +0800" stop="20260223185100 +0800">
 		<title lang="zh">太阳雨</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223185100 +0800" stop="20260223185300 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223185300 +0800" stop="20260223193300 +0800">
+		<title lang="zh">科普云课堂</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223193300 +0800" stop="20260223193400 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223193400 +0800" stop="20260223195800 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223195800 +0800" stop="20260223200000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223200000 +0800" stop="20260223202400 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223202400 +0800" stop="20260223202500 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223202500 +0800" stop="20260223205600 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223205600 +0800" stop="20260223205700 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223205700 +0800" stop="20260223213800 +0800">
+		<title lang="zh">黎明之战(28)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223213800 +0800" stop="20260223215900 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223215900 +0800" stop="20260223220100 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223220100 +0800" stop="20260223224200 +0800">
+		<title lang="zh">黎明之战(29)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223224200 +0800" stop="20260223224500 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223224500 +0800" stop="20260223232700 +0800">
+		<title lang="zh">黎明之战(30)</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223232700 +0800" stop="20260223233000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="贵州科教健康" start="20260223233000 +0800" stop="20260223235959 +0800">
+		<title lang="zh">奇趣大自然</title>
 	</programme>
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
