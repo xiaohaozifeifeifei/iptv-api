@@ -32,12 +32,12 @@ CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
 
 福建频道,#genre#
 福建综合,http://8.138.7.223/tv/fjtv.php?id=4
-福建公共,http://8.138.7.223/tv/fjtv.php?id=6
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7
+福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-福建文体,http://8.138.7.223/tv/fjtv.php?id=10
+福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 
 甘肃频道,#genre#
 
@@ -71,7 +71,6 @@ CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
 湖南频道,#genre#
 
 黑龙江频道,#genre#
-哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 
